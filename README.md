@@ -41,3 +41,6 @@ phases of flight.
 - Purpose of flight:
 Avoid venturing into risky ones such as personal flights and start with 
 less risky ones such as Business and public aircraft purposes.
+
+#### Tableau Dashboard link.
+https://public.tableau.com/app/profile/alex.tom3358/viz/AircraftSafety/AviationSafetyDashboard?publish=yes
